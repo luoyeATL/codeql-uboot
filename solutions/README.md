@@ -1,3 +1,9 @@
+---
+noteId: "b837aaf06d5011ecb2df41c1be960ced"
+tags: []
+
+---
+
 # CodeQL U-Boot challenge (C/C++): sample solutions
 
 This folder contains sample solutions for each step of the course.

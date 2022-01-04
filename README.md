@@ -1,3 +1,9 @@
+---
+noteId: "b83735c06d5011ecb2df41c1be960ced"
+tags: []
+
+---
+
 # Your GitHub repository for your course "CodeQL U-Boot challenge (C/C++)"
 
 **Welcome to this course!**
